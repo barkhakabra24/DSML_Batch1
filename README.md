@@ -3,3 +3,5 @@
 
 First Edit!!
 Adding SQL Files.
+
+Adding the EDA for Netflix!
